@@ -15,7 +15,7 @@ Contacte-me: <a href="mailto:pedroemaildefinitivo@gmail.com" target="__blank">pe
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedro-elm%C3%B4r-a177b2377/)
 
 ### Visit my Dev Community
-[![Discord Server Card]()]()
+[![Discord Server Card](https://cardzera.audibert.dev/api/1430627347639435377?t={timestamp})](https://discord.gg/prwS5zAuXr)
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
