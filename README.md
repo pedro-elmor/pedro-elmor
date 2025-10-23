@@ -16,7 +16,7 @@ Sou bacharel em Engenharia de Software, cursando do 1º para o 2º período na U
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedro-elm%C3%B4r-a177b2377/)
 
 ### 💬 Meu server para receber ajuda com programação
-[<img src="https://github.com/user-attachments/assets/a4234374-ead0-4546-b4fa-0a94551d3e1a" width="500" height="1024" />](https://discord.gg/NutCzZBScD)
+[<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/e604eb21-70a6-4fbb-b4d6-f518b63ca88b" />](https://discord.gg/NutCzZBScD)
 
 
 ### Languages
