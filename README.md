@@ -16,7 +16,8 @@ Sou bacharel em Engenharia de Software, cursando do 1º para o 2º período na U
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedro-elm%C3%B4r-a177b2377/)
 
 ### 💬 Meu server para receber ajuda com programação
-[![Programadores de Plantão]([./b10b9ab4-82b8-4b74-8678-3b8b6f6cfd8b.png])](https://discord.gg/NutCzZBScD)
+[<img src="https://github.com/user-attachments/assets/a4234374-ead0-4546-b4fa-0a94551d3e1a" width="500" height="1024" />](https://discord.gg/NutCzZBScD)
+
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
