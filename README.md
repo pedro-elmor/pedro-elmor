@@ -8,7 +8,7 @@ Sou bacharel em Engenharia de Software, cursando do 1º para o 2º período na U
 </a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,git,github)](https://skillicons.dev)
 
 ### Tech content creator
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@pedroelmorTI)
