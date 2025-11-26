@@ -2,7 +2,7 @@
 
 ```Software Engineering & AI```
 
-Sou bacharel em Engenharia de Software, cursando do 1º para o 2º período na Universidade Severino Sombra (Univassouras). Sou apaixonado por tecnologia, academia e desenvolvimento pessoal. Tenho como propósito construir uma carreira sólida, trabalhar em multinacionais e estar em constante aprendizado, buscando sempre evoluir como profissional e como ser humano.
+Sou apaixonado por tecnologia, academia e desenvolvimento pessoal. Tenho como propósito construir uma carreira sólida, trabalhar em multinacionais e estar em constante aprendizado, buscando sempre evoluir como profissional e como ser humano.
 
 📩 Contato: <a href="mailto:elmoremailcontato@gmail.com" target="__blank">elmoremailcontato@gmail.com
 </a>
