@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, academia e desenvolvimento pessoal. Tenho como pr
 </a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)
 
 ### Tech content creator
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@pedroelmorTI)
