@@ -15,10 +15,6 @@ Sou apaixonado por tecnologia, academia e desenvolvimento pessoal. Tenho como pr
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedroelmor12/?next=%2F&hl=en)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedro-elm%C3%B4r-a177b2377/)
 
-### 💬 Meu server para receber ajuda com programação
-[<img width="367" height="142" alt="Image" src="https://github.com/user-attachments/assets/6b914ff7-f0ac-4055-bd69-93194f056047" />](https://discord.gg/NutCzZBScD)
-
-
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Basic English
